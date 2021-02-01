@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "tech-doc-test-ns"
+  description: "tech-doc-test-ns"
+  annotations:
+    github.com/project-slug: Fasttrack-Dev/tech-docs-test-ns
+    backstage.io/techdocs-ref: url:https://github.com/Fasttrack-Dev/tech-docs-test-ns
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "idev4u"

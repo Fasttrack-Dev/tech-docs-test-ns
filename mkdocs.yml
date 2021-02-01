@@ -1,0 +1,8 @@
+site_name: "tech-doc-test-ns"
+site_description: "tech-doc-test-ns"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
